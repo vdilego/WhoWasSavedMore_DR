@@ -1,6 +1,6 @@
 These are the instructions to replicate the paper entitled:
 "Who has been saved more? Trends in gender differences in mortality through the revivorship approach"
-by Vanessa di Lego.
+
 
 - All data is downloaded from the Human Mortality Database. Add your username and password to download
 all the data used and follow instructions on the Rcode. If you still do not have a username register 
